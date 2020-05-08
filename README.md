@@ -1,2 +1,2 @@
 # LUALIBS4GEMS
-Lua LIBS for GEMS
+Precompiled LUA for GEMS
