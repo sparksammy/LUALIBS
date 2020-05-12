@@ -1,2 +1,2 @@
-# LUALIBS4GEMS
-Precompiled LUA for GEMS
+# LUALIBS
+Old, Precompiled LUA formerly used for GEMS
